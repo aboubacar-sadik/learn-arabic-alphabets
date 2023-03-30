@@ -123,10 +123,10 @@ function Home() {
 			<h1>Arabic Alphabets Simple Quiz Test!</h1>
 			<div>
 				<p>
-					Welcome to our Arabic Alphabets Training website, designed to help you test what you
-					have learn and master the Arabic alphabets.
+					Welcome to our Arabic Alphabets Training website, designed to help you train and test
+					what you have learn from the arabic alphabets.
 				</p>
-				<br />
+				{/* <br />
 				<p>
 					The navigation menu will guide you to the different pages of the website, where you
 					can choose to focus on the isolated, initial, medial, or final form alphabets. You
@@ -147,7 +147,7 @@ function Home() {
 						olimbamari@gmail.com.
 					</Link>
 					Your input will be considered and appreciated.
-				</p>
+				</p> */}
 			</div>
 		</div>
 	);
