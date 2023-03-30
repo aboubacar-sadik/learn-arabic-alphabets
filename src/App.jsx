@@ -144,9 +144,9 @@ function Home() {
 						to="javascript:void(0)"
 						onClick={() => (window.location = 'mailto:olimbamari@gmail.com')}
 					>
-						olimbamari@gmail.com
+						olimbamari@gmail.com.
 					</Link>
-					. Your input will be considered and appreciated.
+					Your input will be considered and appreciated.
 				</p>
 			</div>
 		</div>
