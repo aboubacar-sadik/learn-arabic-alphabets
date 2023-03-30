@@ -146,7 +146,7 @@ function Home() {
 					>
 						olimbamari@gmail.com
 					</Link>
-					.Your input will be considered and appreciated.
+					. Your input will be considered and appreciated.
 				</p>
 			</div>
 		</div>
